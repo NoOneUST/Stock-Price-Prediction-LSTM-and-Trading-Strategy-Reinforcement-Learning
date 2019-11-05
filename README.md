@@ -1,7 +1,7 @@
 # Stock Price Prediction with LSTM and Trading Reinforcement Learning base on TensorFlow
 
 ## Overview
-In this code, we do stock price prediction with LSTM and trading with reinforcement learning.
+In this code, we do stock price prediction with LSTM and trading with reinforcement learning on our own data.
 
 ## Experiment Result
                                                             China
