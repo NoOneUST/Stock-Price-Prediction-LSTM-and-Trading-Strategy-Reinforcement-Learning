@@ -5,13 +5,13 @@ In this code, we do stock price prediction with LSTM and trading with reinforcem
 
 ## Experiment Result
                                                             China
-![image1](./images/china.png)
+![image1](./image/china.png)
 
                                                          Comparison
-![image2](./images/five.png)
+![image2](./image/five.png)
 
                                                    Portfolio Performance 1
-![image3](./images/graph1.png)
+![image3](./image/graph1.png)
 
                                                    Portfolio Performance 2
-![image4](./images/graph2.png)
+![image4](./image/graph2.png)
